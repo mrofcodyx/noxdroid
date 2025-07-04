@@ -3,7 +3,7 @@
 </h1>
 <p align="center"><img src="https://github.com/user-attachments/assets/b17ff714-ff09-46e6-bdf4-c9382911ed4f" width="600"/></p>
 
-**NoxDroid** é uma poderosa toolkit para pentesters que utilizam o emulador **Nox Player** como ambiente de testes Android. Inspirado em projetos como [Noxer](https://github.com/AggressiveUser/noxer/) e [BrutDroid](https://github.com/Brut-Security/BrutDroid/), o **NoxDroid** unifica, automatiza e expande funcionalidades essenciais para análise estática e dinâmica de aplicativos Android.
+**NoxDroid** é uma poderosa toolkit para pentesters que utilizam o emulador **Nox Player** como ambiente de testes Android. Inspirado em projetos como [Noxer](https://github.com/AggressiveUser/noxer/) e [BrutDroid](https://github.com/Brut-Security/BrutDroid/), o **NoxDroid** unifica, automatiza e expande funcionalidades essenciais para análise dinâmica de aplicativos Android.
 
 ---
 
