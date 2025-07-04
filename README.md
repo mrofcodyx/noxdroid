@@ -12,7 +12,7 @@
 - 📱 **Frida Tools Menu** com suporte a múltiplos scripts de bypass (SSL Pinning, Root Detect, Emulador Dectect)
 - 🧪 Instalação automática do **MaFrida** via Magisk (para rodar Frida de forma invisível e confiável)
 - 🔐 Configuração automática de certificados Burp Suite com suporte ao módulo **AlwaysTrustUserCerts**
-- 🛠️ Instalação de módulos como **Frida**, **Magisk**, **Kitsune Mask**, com checagens automatizadas
+- 🛠️ Instalação de módulos como **Mafrida**, **Magisk**, com checagens automatizadas
 - 🌙 Compatível com Nox Player 7.x + Kitsune Mask Delta (Zygisk/Magisk para x86_64)
 
 ---
@@ -65,6 +65,17 @@ python -m pip install -r requirements.txt
 ```bash
 python -m main
 ```
+---
+
+## 📸 Foto ⤵️
+
+<p align="center"><img src="https://github.com/user-attachments/assets/fc0ed403-d473-40df-85fb-df75cb244b1a" width="600"/></p>
+
+
+---
+
+## 📺 Passo a passo completo. ⤵️
+[![image](https://github.com/user-attachments/assets/c0217e91-712f-4d10-ab8a-d22936d98917)](https://youtu.be/6K6LXXmGrzs)
 
 ---
 
@@ -78,7 +89,7 @@ Este projeto foi fortemente inspirado nos seguintes projetos:
  Agradecimentos especiais a ambos os autores pela contribuição valiosa à comunidade de segurança Android. O NoxDroid foi desenvolvido com o propósito de expandir essas ideias e torná-las ainda mais automatizadas e modulares.
 
 ---
-## 📬 Contato
+## 📬 Contato [Mr_ofcodyx](https://www.linkedin.com/in/mrofcodyx/)
 
 Sinta-se à vontade para contribuir, abrir *issues* ou sugerir melhorias.  
 Este projeto é feito com 💙 por um entusiasta de segurança ofensiva.
