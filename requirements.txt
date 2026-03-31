@@ -1,0 +1,35 @@
+# HTTP client — downloads, GitHub API, Burp cert
+requests
+
+# Terminal / ANSI
+colorama
+
+# Certificate handling (cert_setup.py — OpenSSL crypto)
+pyOpenSSL
+
+# Process detection — localiza Nox Player em execução
+psutil
+
+# Frida CLI tools (frida, frida-ps)
+frida-tools
+
+# Runtime mobile explorer
+objection
+
+# HTML parsing — CodeShare scraper
+beautifulsoup4
+
+# APK static analysis — URIs, endpoints, secrets
+apkleaks
+
+# APK compiler/packer/obfuscator identifier
+apkid
+
+# APK deep static analysis — permissions, APIs, components, cert
+androguard
+
+# Android/iOS source code security scanner
+mobsfscan
+
+# YAML config support — mobsfscan .mobsf config files
+pyyaml
