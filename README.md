@@ -1,15 +1,6 @@
 <div align="center">
-
-```
-  [:: NoxDroid ::]
-    (\_/)
-   ( •ᴗ•)  Android Pentest Toolkit
-   />🍃    by Mr_ofcodyx
-```
-
-# NoxDroid
-
-**Android security toolkit — análise estática, dinâmica, bypass e interceptação em um único menu.**
+<p align="center"><img src="https://github.com/user-attachments/assets/b17ff714-ff09-46e6-bdf4-c9382911ed4f" width="600"/></p>
+Android security toolkit — análise estática, dinâmica, bypass e interceptação em um único menu.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
@@ -103,6 +94,10 @@ Na primeira execução o NoxDroid:
 ## Estrutura
 
 ```
+  [:: NoxDroid ::]
+    (\_/)
+   ( •ᴗ•)  Android Pentest Toolkit
+   />🍃    by Mr_ofcodyx
 noxdroid/
 ├── main.py                    # Entry point — menus principais
 ├── requirements.txt
@@ -201,5 +196,5 @@ Os autores não se responsabilizam por danos ou consequências legais decorrente
 ---
 
 <div align="center">
-  Feito com 💙 por <a href="https://github.com/mrofcodyx/noxdroid">Mr_ofcodyx</a>
+  Feito com 💙 por <a href="https://github.com/mrofcodyx">Mr_ofcodyx</a>
 </div>
